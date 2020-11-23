@@ -1,9 +1,3 @@
-var syzygyexe = {
-  </br>
-  firstName: "Alexander",
-  </br>
-  lastName: "Borisov",
-};
 
   
 
