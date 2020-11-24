@@ -8,7 +8,7 @@ var syzygyexe = {
     "CSS",
     "SASS",
     "JavaScript",
-    "MognoDB",
+    "MongoDB",
     "Express.js",
     "React.js",
     "Node.js",
