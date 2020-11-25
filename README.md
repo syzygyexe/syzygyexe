@@ -18,6 +18,7 @@ var syzygyexe = {
     "JQuery",
     "Bootstrap",
     "Git",
+    "Grunt",
   ],
 };
 ```
