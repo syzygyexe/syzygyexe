@@ -3,7 +3,7 @@ var syzygyexe = {
   firstName: "Alexander",
   lastName: "Borisov",
   languages: ["Russian", "English", "Japanese", "Chinese"],
-  tech: [
+  favoriteTech: [
     "JavaScript",
     "React.js",
   ],
