@@ -5,7 +5,7 @@ var syzygyexe = {
   languages: ["Russian", "English", "Japanese", "Chinese"],
   favoriteTech: [
     "JavaScript",
-    "React.js",
+    "Python",
   ],
 };
 ```
