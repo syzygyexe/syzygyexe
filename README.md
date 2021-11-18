@@ -4,7 +4,7 @@ var syzygyexe = {
   lastName: "Borisov",
   languages: ["Russian", "English", "Japanese", "Chinese"],
   favoriteTech: [
-    "Python",
+    "Python", "TypeScript",
   ],
 };
 ```
