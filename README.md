@@ -1,5 +1,5 @@
 ```javascript
-var syzygyexe = {
+const syzygyexe = {
   firstName: "Alexander",
   lastName: "Borisov",
   languages: ["Russian", "English", "Japanese", "Chinese"],
